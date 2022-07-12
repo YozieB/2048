@@ -1,0 +1,7 @@
+.board__btns {
+  max-width: 35%;
+  min-width: 314px;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+}

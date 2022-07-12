@@ -1,0 +1,7 @@
+.board_hidden {
+  opacity: 0;
+  left: -9999px;
+  visibility: hidden;
+  position: absolute;
+  transform: scale(0);
+}
